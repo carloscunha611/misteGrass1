@@ -17,7 +17,7 @@ a {
 }
 
 body {
-  background: url("../images/screenshot_1.png") no-repeat center/cover;
+  background: url("/src/images/Screenshot_1.png") no-repeat center/cover;
   overflow: hidden;
 }
 body .navBar {
